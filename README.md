@@ -5,7 +5,7 @@ Some might argue that text-input-related HCI research in English is verging towa
 
 
 --------------------------------------------------------------------------------------------------------------------------------
-
+[**Publication Link**](https://link.springer.com/chapter/10.1007/978-3-031-80829-6_5)  
 
 IDCText is an open-source, freely available web application developed using HTML5, CSS3, PHP and Javascript. IDCText allows HCI researchers to design studies in Indian languages, offering the flexibility to use custom phrases and configure various study parameters to meet their specific needs.
 
@@ -91,4 +91,18 @@ Before you run or start writing any program in PHP, you should start Apache and 
 ## Tutorial Video 
 
 Tutorial video for creating a text input study on IDCText is available on [Youtube](https://www.youtube.com/watch?v=zjOIJ0RGGFE).
+
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+## Cite our work 
+@inproceedings{deshmukh2024idctext,
+  title={IDCText: An Application for Conducting Text Input Research Studies in Indian Languages},
+  author={Deshmukh, Vedant and Joshi, Anirudha},
+  booktitle={Indian Conference on Human-Computer Interaction Design and Research},
+  pages={104--124},
+  year={2024},
+  organization={Springer}
+}
+
 
